@@ -42,8 +42,10 @@ Para instalar **Node.js** y **Angular CLI**, sigue los siguientes pasos:
    git clone https://github.com/Yahir-EXT/Prueba-Tecnica-Fronted.git
    cd Prueba-Tecnica-Fronted
 
-2. **Instala las dependencias del proyecto**
-  npm install
+2. **Instala las dependencias del proyecto**:
+  ```bash
+   npm install
 
 3. **Ejecuta la aplicación**
+  ```bash
   ng serve -o
