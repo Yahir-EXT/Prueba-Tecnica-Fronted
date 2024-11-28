@@ -43,9 +43,9 @@ Para instalar **Node.js** y **Angular CLI**, sigue los siguientes pasos:
    cd Prueba-Tecnica-Fronted
 
 2. **Instala las dependencias del proyecto**:
-  ```bash
+   ```bash
    npm install
-
+   
 3. **Ejecuta la aplicación**
   ```bash
   ng serve -o
